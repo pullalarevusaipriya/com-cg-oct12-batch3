@@ -18,7 +18,7 @@ public class GenDemo {
 		myMarks.add(10);
 //		myMarks.add(10.5);
 //	myMarks.add("abc");
-		myMarks.add(25);
+		myMarks.add(25); 
 		System.out.println(myMarks);
 
 	}
